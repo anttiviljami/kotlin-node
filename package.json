@@ -1,0 +1,16 @@
+{
+  "name": "kotlin-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "gradle build",
+    "start": "node dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "kotlin": "^1.3.0"
+  }
+}
